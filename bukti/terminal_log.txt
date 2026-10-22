@@ -1,0 +1,17 @@
+  Id CommandLine
+  -- -----------
+   1 mkdir UTS_IT0022_71261259
+   2 cd .\UTS_IT0022_71261259\
+   3 mkdir dokumen
+   4 mkdir data
+   5 mkdir bukti
+   6 mkdir publikasi
+   7 cd ~
+   8 cd doc
+   9 cd .\Documents\
+  10 copy .\Laporan_LiterasiDigital_71261259.docx C:\Users\Admin\UTS_IT0022_71261259\dokumen
+  11 copy .\Analisis_Peserta_71261259.xlsx C:\Users\Admin\UTS_IT0022_71261259\data
+  12 copy Gallery\Screenshot 2026-10-22 170111 C:\Users\Admin\UTS_IT0022_71261259\bukti
+  13 copy "C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-10-22 170111.png" C:\Users\Admin\UTS_IT0022_71261259\dokumen
+  14 root
+  15 copy .\Laporan_LiterasiDigital_71261259.pdf C:\Users\Admin\UTS_IT0022_71261259\dokumen
